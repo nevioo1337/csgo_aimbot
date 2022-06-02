@@ -1,2 +1,2 @@
 # csgo_aimbot
-Basic csgo aimbot, might have some bugs.
+Basic internal csgo aimbot, might have some bugs.
